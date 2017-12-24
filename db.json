@@ -1,8 +1,32 @@
 {
-  "posts": [
+  "carwashes": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Myan",
+	  "address": "St. Sayat Nova 15",
+	  "latitude": 40.184579,
+	  "longitude": 44.517889
+    },
+	{
+      "id": 2,
+      "name": "Wash Cup",
+	  "address": "St. Tumanyan 24",
+	  "latitude": 40.182546,
+	  "longitude": 44.517353
+    },
+	{
+      "id": 3,
+      "name": "InnoWash",
+	  "address": "St. Inno City",
+	  "latitude": 40.183655,
+	  "longitude": 44.511517
+    },
+	{
+      "id": 4,
+      "name": "BigWash LLC",
+	  "address": "Malatia Sebastia 15, 14 ave",
+	  "latitude": 40.172576,
+	  "longitude":44.448989
     }
   ],
   "profile": {
