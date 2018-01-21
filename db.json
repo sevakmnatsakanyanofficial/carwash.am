@@ -82,7 +82,7 @@
 	  "carwash_id": 1,
 	  "car-type_id": 1,
 	  "serviceType": [
-		"name": "Full Wash",
+		"name": "Full Wash"
 	  ]
     },
 	{
@@ -90,7 +90,7 @@
 	  "carwash_id": 2,
 	  "car-type_id": 2,
 	  "serviceType": [
-		"name": "Salon Wash",
+		"name": "Salon Wash"
 	  ]
     },
 	{
