@@ -76,25 +76,30 @@
 	  "carwash_id": 3
     }
   ],
-  
- "carwash-services": [
+  "carwash-services": [
     {
       "id": 1,
-      "name": "Full Wash",
 	  "carwash_id": 1,
-	  "car-type_id": 1
+	  "car-type_id": 1,
+	  "serviceType": [
+		"name": "Full Wash",
+	  ]
     },
 	{
       "id": 2,
-      "name": "Salon Wash",
 	  "carwash_id": 2,
-	  "car-type_id": 2
+	  "car-type_id": 2,
+	  "serviceType": [
+		"name": "Salon Wash",
+	  ]
     },
 	{
       "id": 3,
-      "name": "Contact Wash",
 	  "carwash_id": 3,
-	  "car-type_id": 3
+	  "car-type_id": 3,
+	  "serviceType": [
+		"name": "Contact Wash"
+	  ]
     }
   ],
   "profile": {
