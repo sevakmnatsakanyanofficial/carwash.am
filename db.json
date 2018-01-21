@@ -7,9 +7,9 @@
 	  "latitude": 40.184579,
 	  "longitude": 44.517889,
 	  "carTypes": [
-		{"car-type_id": 1},
-		{"car-type_id": 2},
-		{"car-type_id": 3}
+		{"car_type_id": 1},
+		{"car_type_id": 2},
+		{"car_type_id": 3}
 	  ]
     },
 	{
@@ -19,8 +19,8 @@
 	  "latitude": 40.182546,
 	  "longitude": 44.517353,
 	  "carTypes": [
-		{"car-type_id": 2},
-		{"car-type_id": 3}
+		{"car_type_id": 2},
+		{"car_type_id": 3}
 	  ]
     },
 	{
@@ -30,8 +30,8 @@
 	  "latitude": 40.183655,
 	  "longitude": 44.511517,
 	  "carTypes": [
-		{"car-type_id": 1},
-		{"car-type_id": 2}
+		{"car_type_id": 1},
+		{"car_type_id": 2}
 	  ]
     },
 	{
@@ -41,7 +41,7 @@
 	  "latitude": 40.172576,
 	  "longitude":44.448989,
 	  "carTypes": [
-		{"car-type_id": 3}
+		{"car_type_id": 3}
 	  ]
     }
   ],
