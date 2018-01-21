@@ -32,15 +32,15 @@
   "car-types": [
     {
       "id": 1,
-      "name": "Light",
+      "name": "Light"
     },
 	{
       "id": 2,
-      "name": "Middle",
+      "name": "Middle"
     },
 	{
       "id": 3,
-      "name": "Heavy",
+      "name": "Heavy"
     }
   ],
   "profile": {
