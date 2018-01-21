@@ -72,27 +72,27 @@
     },
 	{
       "id": 3,
-      "name": "Heavy",
+      "name": "#3",
 	  "carwash_id": 3
     }
   ],
   
- "carwashe-services": [
+ "carwash-services": [
     {
       "id": 1,
-      "name": "#1",
+      "name": "Full Wash",
 	  "carwash_id": 1,
 	  "car-type_id": 1
     },
 	{
       "id": 2,
-      "name": "#2",
+      "name": "Salon Wash",
 	  "carwash_id": 2,
 	  "car-type_id": 2
     },
 	{
       "id": 3,
-      "name": "Heavy",
+      "name": "Contact Wash",
 	  "carwash_id": 3,
 	  "car-type_id": 3
     }
