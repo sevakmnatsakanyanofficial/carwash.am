@@ -81,25 +81,25 @@
       "id": 1,
 	  "carwash_id": 1,
 	  "car-type_id": 1,
-	  "serviceType": [
+	  "serviceType": {
 		"name": "Full Wash"
-	  ]
+	  }
     },
 	{
       "id": 2,
 	  "carwash_id": 2,
 	  "car-type_id": 2,
-	  "serviceType": [
+	  "serviceType": {
 		"name": "Salon Wash"
-	  ]
+	  }
     },
 	{
       "id": 3,
 	  "carwash_id": 3,
 	  "car-type_id": 3,
-	  "serviceType": [
+	  "serviceType": {
 		"name": "Contact Wash"
-	  ]
+	  }
     }
   ],
   "profile": {
