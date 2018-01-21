@@ -103,8 +103,10 @@
     }
   ],
   "available-times": [
-	
-  ]
+	{
+		"id": 1
+	}
+  ],
   "profile": {
     "name": "typicode"
   }
