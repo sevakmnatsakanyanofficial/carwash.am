@@ -29,6 +29,20 @@
 	  "longitude":44.448989
     }
   ],
+  "car-types": [
+    {
+      "id": 1,
+      "name": "Light",
+    },
+	{
+      "id": 2,
+      "name": "Middle",
+    },
+	{
+      "id": 3,
+      "name": "Heavy",
+    },
+  ],
   "profile": {
     "name": "typicode"
   }
