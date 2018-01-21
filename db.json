@@ -6,7 +6,7 @@
 	  "address": "St. Sayat Nova 15",
 	  "latitude": 40.184579,
 	  "longitude": 44.517889,
-	  "car-types": [
+	  "carTypes": [
 		{"car-type_id": 1},
 		{"car-type_id": 2},
 		{"car-type_id": 3}
@@ -18,7 +18,7 @@
 	  "address": "St. Tumanyan 24",
 	  "latitude": 40.182546,
 	  "longitude": 44.517353,
-	  "car-types": [
+	  "carTypes": [
 		{"car-type_id": 2},
 		{"car-type_id": 3}
 	  ]
@@ -29,7 +29,7 @@
 	  "address": "St. Inno City",
 	  "latitude": 40.183655,
 	  "longitude": 44.511517,
-	  "car-types": [
+	  "carTypes": [
 		{"car-type_id": 1},
 		{"car-type_id": 2}
 	  ]
@@ -40,7 +40,7 @@
 	  "address": "Malatia Sebastia 15, 14 ave",
 	  "latitude": 40.172576,
 	  "longitude":44.448989,
-	  "car-types": [
+	  "carTypes": [
 		{"car-type_id": 3}
 	  ]
     }
